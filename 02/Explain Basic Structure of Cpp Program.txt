@@ -1,0 +1,12 @@
+#include<iostream>		//header file including some important function
+using namespace std;		//std is a namespace including cout type function
+int main(int argc, char const *argv[])//entry point of program
+{
+    //Single line comment
+    /*Multiline comment */
+    int a=20;	//variable
+    int b=30;
+    
+    cout<<"a+b = "<<a+b; //print statement to print on console
+    return 0;
+}

@@ -1,0 +1,6 @@
+01 >
+install vs code and install c/c++ extention
+02 >
+install mingw and mark mingw32-base and mingw32-gcc-g++ then go to installation and applay changes 
+03 >
+add bin path in system environment variable path
