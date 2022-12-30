@@ -2,8 +2,8 @@ why oop?
 	first of all oop is a way to code not a seprate language
 	main intent of c++ is to add OOP in C programming
 	because it increase readability, maintainability, and due to bug-free nature of program
-	before this data security was easily compromised nut classes solve this problem by modeling program as real world scenario
-	in procedural language data move function function openly using local and global variables
+	before this data security was easily compromised but classes solve this problem by modeling program as real world scenario
+	in procedural language data move function to function openly using local and global variables
 concept of oop:
 	oop work on the concept of classes and objects
 class:
@@ -25,7 +25,7 @@ polymorphism:
 Dynamic Binding:
 	which code will be execute is not known untill program runs
 Message passing:
-	Object.message("informantion")  >>> call formate of class function
+	Object.message("information")  >>> call formate of class function
 Benifits of OOP:
 	code reuseability
 	data hiding
