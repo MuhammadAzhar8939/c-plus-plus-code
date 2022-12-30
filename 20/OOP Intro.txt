@@ -1,0 +1,34 @@
+why oop?
+	first of all oop is a way to code not a seprate language
+	main intent of c++ is to add OOP in C programming
+	because it increase readability, maintainability, and due to bug-free nature of program
+	before this data security was easily compromised nut classes solve this problem by modeling program as real world scenario
+	in procedural language data move function function openly using local and global variables
+concept of oop:
+	oop work on the concept of classes and objects
+class:
+	classes are a template to create objects,
+	treat data as critical element
+	build data and function around the objects
+object:
+	objects are runtime Entities
+Abstraction:
+	it is a process of hiding internal details of an applictaion from outer world
+	also used to explain things in simple terms and used to create boundary b/w application and client program
+	--> layer inside layer (layer by layer structure
+Encapsulation:
+	wrapping up data and functions into single unit
+Inheritance:
+	proprities of one class can be inherited by other
+polymorphism:
+	ability to take more then one form
+Dynamic Binding:
+	which code will be execute is not known untill program runs
+Message passing:
+	Object.message("informantion")  >>> call formate of class function
+Benifits of OOP:
+	code reuseability
+	data hiding
+	secure systems
+	Multiple objects can co-exist without interference
+	software complexity can be easily managed
